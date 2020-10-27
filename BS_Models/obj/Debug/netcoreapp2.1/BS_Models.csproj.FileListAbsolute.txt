@@ -1,0 +1,9 @@
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\bin\Debug\netcoreapp2.1\BS_Models.deps.json
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\bin\Debug\netcoreapp2.1\BS_Models.dll
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\bin\Debug\netcoreapp2.1\BS_Models.pdb
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\obj\Debug\netcoreapp2.1\BS_Models.csprojAssemblyReference.cache
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\obj\Debug\netcoreapp2.1\BS_Models.AssemblyInfoInputs.cache
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\obj\Debug\netcoreapp2.1\BS_Models.AssemblyInfo.cs
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\obj\Debug\netcoreapp2.1\BS_Models.csproj.CoreCompileInputs.cache
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\obj\Debug\netcoreapp2.1\BS_Models.dll
+D:\Personal\BrainStation\BrainStation_BE\BS_Models\obj\Debug\netcoreapp2.1\BS_Models.pdb

@@ -1,0 +1,12 @@
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\bin\Debug\netcoreapp2.1\BS_Interfaces.deps.json
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\bin\Debug\netcoreapp2.1\BS_Interfaces.dll
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\bin\Debug\netcoreapp2.1\BS_Interfaces.pdb
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\bin\Debug\netcoreapp2.1\BS_Models.dll
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\bin\Debug\netcoreapp2.1\BS_Models.pdb
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\obj\Debug\netcoreapp2.1\BS_Interfaces.csprojAssemblyReference.cache
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\obj\Debug\netcoreapp2.1\BS_Interfaces.AssemblyInfoInputs.cache
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\obj\Debug\netcoreapp2.1\BS_Interfaces.AssemblyInfo.cs
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\obj\Debug\netcoreapp2.1\BS_Interfaces.csproj.CoreCompileInputs.cache
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\obj\Debug\netcoreapp2.1\BS_Interfaces.csproj.CopyComplete
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\obj\Debug\netcoreapp2.1\BS_Interfaces.dll
+D:\Personal\BrainStation\BrainStation_BE\BS_Interfaces\obj\Debug\netcoreapp2.1\BS_Interfaces.pdb

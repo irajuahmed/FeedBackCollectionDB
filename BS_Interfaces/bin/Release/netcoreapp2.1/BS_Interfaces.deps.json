@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BS_Interfaces/1.0.0": {
+        "dependencies": {
+          "BS_Models": "1.0.0"
+        },
+        "runtime": {
+          "BS_Interfaces.dll": {}
+        }
+      },
+      "BS_Models/1.0.0": {
+        "runtime": {
+          "BS_Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BS_Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BS_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

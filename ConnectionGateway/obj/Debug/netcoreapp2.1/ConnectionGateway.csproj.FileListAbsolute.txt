@@ -1,0 +1,9 @@
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\bin\Debug\netcoreapp2.1\ConnectionGateway.deps.json
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\bin\Debug\netcoreapp2.1\ConnectionGateway.dll
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\obj\Debug\netcoreapp2.1\ConnectionGateway.AssemblyInfoInputs.cache
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\obj\Debug\netcoreapp2.1\ConnectionGateway.AssemblyInfo.cs
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\obj\Debug\netcoreapp2.1\ConnectionGateway.csprojAssemblyReference.cache
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\obj\Debug\netcoreapp2.1\ConnectionGateway.csproj.CoreCompileInputs.cache
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\bin\Debug\netcoreapp2.1\ConnectionGateway.pdb
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\obj\Debug\netcoreapp2.1\ConnectionGateway.dll
+D:\Personal\BrainStation\BrainStation_BE\ConnectionGateway\obj\Debug\netcoreapp2.1\ConnectionGateway.pdb

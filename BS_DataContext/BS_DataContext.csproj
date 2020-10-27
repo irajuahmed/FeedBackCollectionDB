@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BS_Interfaces\BS_Interfaces.csproj" />
+    <ProjectReference Include="..\ConnectionGateway\ConnectionGateway.csproj" />
+  </ItemGroup>
+
+</Project>
