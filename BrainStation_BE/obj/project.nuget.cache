@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "swNhKn11guXg0kHGoT3vGZd4DD2Q+eWFgS7baQ/BgOSgqLc0L2eE12YyQv/z/hFpOPhsBs8MrK9wPc/czILVDQ==",
+  "dgSpecHash": "DErFs2nbwoG8/3tbiAYpeSh8VcpN/t7tvbhMYKkSdH8WDNESOdRpc0DKc2bjOqNPXqip75YKOheD9tNJBsQH/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj",
+  "projectFilePath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

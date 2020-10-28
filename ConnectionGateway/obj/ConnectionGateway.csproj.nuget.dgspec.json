@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {}
+    "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {
+    "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj",
+        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj",
         "projectName": "ConnectionGateway",
-        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj",
+        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj",
         "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\obj\\",
+        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

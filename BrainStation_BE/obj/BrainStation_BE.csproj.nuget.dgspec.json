@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj": {}
+    "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj": {
+    "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj",
+        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj",
         "projectName": "BrainStation_BE",
-        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj",
+        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BrainStation_BE\\BrainStation_BE.csproj",
         "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BrainStation_BE\\obj\\",
+        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BrainStation_BE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,14 +30,14 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj": {
-                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj"
+              "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj": {
+                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj"
               },
-              "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj"
+              "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj"
               },
-              "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj": {
-                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj"
+              "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj": {
+                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj": {
+    "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
+        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
         "projectName": "BS_DataContext",
-        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
+        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
         "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\obj\\",
+        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -109,11 +109,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj"
+              "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj"
               },
-              "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {
-                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj"
+              "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {
+                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj": {
+    "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj",
         "projectName": "BS_Interfaces",
-        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj",
+        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj",
         "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -174,8 +174,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj": {
-                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj"
+              "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj": {
+                "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj": {
+    "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj",
+        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj",
         "projectName": "BS_Models",
-        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj",
+        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj",
         "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\obj\\",
+        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -268,14 +268,14 @@
         }
       }
     },
-    "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {
+    "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj",
+        "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj",
         "projectName": "ConnectionGateway",
-        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj",
+        "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj",
         "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\obj\\",
+        "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

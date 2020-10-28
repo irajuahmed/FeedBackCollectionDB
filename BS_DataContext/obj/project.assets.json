@@ -1396,11 +1396,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
+      "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
       "projectName": "BS_DataContext",
-      "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
+      "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
       "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\obj\\",
+      "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1419,11 +1419,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj": {
-              "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj"
+            "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj"
             },
-            "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {
-              "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj"
+            "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj": {
+              "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\ConnectionGateway\\ConnectionGateway.csproj"
             }
           }
         }

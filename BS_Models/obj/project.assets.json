@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj",
+      "projectUniqueName": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj",
       "projectName": "BS_Models",
-      "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj",
+      "projectPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\BS_Models.csproj",
       "packagesPath": "C:\\Users\\Tanvir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Models\\obj\\",
+      "outputPath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

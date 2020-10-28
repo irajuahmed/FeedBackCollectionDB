@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yyTvLIvUb+VG/TIpYofLiTCu/9Zp+IJ7CI1It4DNg4dDTC1b1zrCElgIklLO1/TwMHcXLn3352tBrM4q1+H57A==",
+  "dgSpecHash": "b+K0HAIl348DkaZqA1hoBQyovOEcmIVCK3w2v9211nbuATVgRiMM9TPjPbaGy83FnXv8aRkxJrrCnz3bZQOw6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_Interfaces\\BS_Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

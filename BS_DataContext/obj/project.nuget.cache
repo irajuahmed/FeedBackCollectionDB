@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zQ7HqZuU/YHOEas3HzZgAxGfeJLixHtWHpirNu/jsFVtMwS0+UZxGDiGgSvKWFd7IffR0rTfi6yKBCxsHXdOEQ==",
+  "dgSpecHash": "EJH4mEQE9gP/qRsgVCydB54I3msdNTHa1kEnilYswLnlbkBpu97vOz4OdlAa6u0hWLUtyvAi+8HQaMepqS2kAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\Habib\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
+  "projectFilePath": "C:\\Users\\Tanvir\\Desktop\\Sohel\\BrainStation\\BS-master\\BS-master\\BS_DataContext\\BS_DataContext.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tanvir\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Tanvir\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
